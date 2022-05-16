@@ -1,7 +1,7 @@
 /*
  * File: locate.c
- * Auth: Efa-iwa
- *       Oluwwadarasimi
+ * Auth: Chukwudalu Chibeze
+ *       Aaron Anigbalawo
  */
 
 #include "shell.h"
