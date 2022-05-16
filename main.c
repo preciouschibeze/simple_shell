@@ -1,6 +1,7 @@
 /*
  * File: main.c
- * Auth: Efa-iwa
+ * Auth: Chukwudalu Chibeze
+ *       Aaron Anigbalawo
  */
 
 #include "shell.h"
