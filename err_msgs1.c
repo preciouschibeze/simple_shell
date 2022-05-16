@@ -1,7 +1,7 @@
 /*
  * File: err_msgs1.c
- * Auth: Efa-iwa Eleng
- *       Oluwadarasimi
+ * Auth: Chukwudalu Chibeze
+ *       Aaron Anigbalawo
  */
 
 #include "shell.h"
