@@ -1,7 +1,7 @@
 /*
  * File: errors.c
- * Auth: Efa-iwa Eleng
- *       Oluwadarasimi
+ * Auth: Chukwudalu Chibeze
+ *       Aaron Anigbalawo
  */
 
 #include "shell.h"
