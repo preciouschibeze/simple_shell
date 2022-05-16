@@ -1,7 +1,7 @@
 /*
  * File: alias_builtins.c
- * Auth: Efa-iwa
- * 	Oluwadarasimi
+ * Auth: Chukwudalu Chibeze
+ * 	 Aaron Anigbalawo
  */
 #include "shell.h"
 
